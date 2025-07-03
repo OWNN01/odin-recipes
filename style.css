@@ -1,0 +1,34 @@
+body {
+    background-color: darkgrey;
+    font-family: "Lucida Console", serif;
+}
+
+ol {
+    text-align: center;
+    margin: 8 auto;
+    list-style-position: inside;
+    display: inline;
+
+}
+
+li {
+    display: inline;
+}
+
+.title {
+    color: Green;
+    background-color: black;
+    width: 250px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 8px 16px;
+    display: block;
+}
+
+.select {
+    text-align: center;
+    margin: 8px auto;
+    background-color: beige;
+    width: 250px;
+    padding: 8px 16px;
+}
